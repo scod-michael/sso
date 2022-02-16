@@ -55,8 +55,9 @@ This sample demonstrates the following MSAL React concepts:
    4. Replace the string `"Enter_the_Redirect_Uri_Here"` with the redirect uri you setup on AAD Portal.
 2. Configure the parameters for calling MS Graph API:
    2. Replace the string `"Enter_the_Graph_Endpoint_Herev1.0/me"` with `"https://graph.microsoft.com/v1.0/me"` (*note*: This is for MS Graph instance located on the global Azure cloud. For more information, see the [documentation](https://docs.microsoft.com/en-us/graph/deployments))
-3. To start the sample application, run `npm start`.
-4. Finally, open a browser and navigate to [http://localhost:3000](http://localhost:3000).
+3. Install the dependencies, on your terminal, just run `yarn` .
+4. To start the sample application, run `yarn start`.
+5. Finally, open a browser and navigate to [http://localhost:3000](http://localhost:3000).
 
 ## Contributing
 
